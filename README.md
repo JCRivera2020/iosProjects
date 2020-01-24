@@ -19,7 +19,7 @@ User can enter a bill amount, choose a tip percentage, and see the tip and total
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ic81RLp" data-context="false" ><a href="//imgur.com/a/ic81RLp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/uF2Jbzp.mp4[/img]
 
 GIF created with [Imgur](https://imgur.com).
 
